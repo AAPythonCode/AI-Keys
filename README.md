@@ -11,7 +11,10 @@ A custom mechanical keyboard designed in KiCad, with a built-in AI function to a
 - The speaker runs on a MAX98357A, which is a module that controls the speaker to output the message the AI wants to speak out loud.
 
 > [!NOTE]
-> Any battery can be used, but make sure that the battery outputs a stable 3.7V. You may use higher voltages, in accordance to the [TPS63001's datasheet](https://www.ti.com/product/TPS63001)
+> Any battery can be used, but make sure that the battery outputs a stable 3.7V. You may use higher voltages, in accordance to the [TPS63001's datasheet!](https://www.ti.com/product/TPS63001)
 
 # Parts used
 Here's a dedicated parts list for creating this keyboard yourself:
+
+| Part | Cost | Link |
+-------|------|---------
