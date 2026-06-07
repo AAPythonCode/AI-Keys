@@ -18,3 +18,4 @@ Here's a dedicated parts list for creating this keyboard yourself:
 
 | Part | Cost | Link |
 -------|------|---------
+e | f | g
