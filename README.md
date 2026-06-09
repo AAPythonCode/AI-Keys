@@ -31,4 +31,10 @@ Here's a dedicated BOM for creating this keyboard yourself:
 | TPS63001 | $2.27 | [Click Here](https://www.ti.com/product/TPS63001?utm_source=google&utm_medium=cpc&utm_campaign=app-null-null-GPN_EN-cpc-pf-google-ww_en_cons&utm_content=TPS63001&ds_k=TPS63001&DCM=yes&gclsrc=aw.ds&gad_source=1&gad_campaignid=1767856010&gbraid=0AAAAAC068F02XRLVUVn1qaOX6xrOvtP0y&gclid=Cj0KCQjwrZTRBhDSARIsAHidYfcO2jmQQrtSjZ0xPVh3lzhPpcKTbKZK_XgQGUQXxEWHeZcUr_cTREwaAqqhEALw_wcB#order-quality) | Texas Instruments |
 | PCB | Depends On Manufacturer | [Click Here](https://github.com/user-attachments/files/28724171/gerbers.zip) | Any PCB Manufacturer |
 
+> [!NOTE]
+> The PCB doesn't have a link to a product page; instead, it downloads gerbers.zip. Don't unzip it; instead, go to a PCB manufacturer's page (such as aivon.com) and drop the zip into its "gerber file uploader."
+> The "gerber file uploader" should look like something similar or exactly like this:
+> <img width="822" height="140" alt="Screenshot 2026-06-09 at 10 54 21 AM" src="https://github.com/user-attachments/assets/d45b8928-c98f-4327-84a0-f5eb3a830705" />
+
+
 
