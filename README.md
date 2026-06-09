@@ -10,7 +10,7 @@ A custom mechanical keyboard designed in KiCad, with a built-in AI function to a
 - To stabilize power flow to the ESP32, the keyboard uses a TPS63001 (buck convertor).
 - The speaker runs on a MAX98357A, which is a module that controls the speaker to output the message the AI wants to speak out loud.
 
-> [!NOTE]
+> [!TIP]
 > Though a 3.7V battery is used for this project, you may use higher/lower voltages, in accordance to the [TPS63001's datasheet.](https://www.ti.com/product/TPS63001)
 
 # BOM (Bill Of Materials)
@@ -30,7 +30,7 @@ Here's a dedicated BOM for creating this keyboard yourself:
 | Resistors and Caps | $5.66 | [Click Here](https://justpaste.it/oabiu) | LCSC |
 | TPS63001 | $2.27 | [Click Here](https://www.ti.com/product/TPS63001?utm_source=google&utm_medium=cpc&utm_campaign=app-null-null-GPN_EN-cpc-pf-google-ww_en_cons&utm_content=TPS63001&ds_k=TPS63001&DCM=yes&gclsrc=aw.ds&gad_source=1&gad_campaignid=1767856010&gbraid=0AAAAAC068F02XRLVUVn1qaOX6xrOvtP0y&gclid=Cj0KCQjwrZTRBhDSARIsAHidYfcO2jmQQrtSjZ0xPVh3lzhPpcKTbKZK_XgQGUQXxEWHeZcUr_cTREwaAqqhEALw_wcB#order-quality) | Texas Instruments |
 | PCB | Depends On Manufacturer | [Click Here](https://github.com/user-attachments/files/28724171/gerbers.zip) | Any PCB Manufacturer |
-| Case | Depends On Manufacturer / Manufacturing Device | [Click Here](https://github.com/user-attachments/files/28766007/Case.Files.zip)
+| Case | Depends On Manufacturer / Manufacturing Device | [Click Here](https://github.com/user-attachments/files/28766007/Case.Files.zip) | Any Fabrication Device / Company 
 
 
 
