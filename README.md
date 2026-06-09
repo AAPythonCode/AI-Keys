@@ -34,11 +34,12 @@ Here's a dedicated BOM for creating this keyboard yourself:
 
 
 
-> [!TIP]
+> [!IMPORTANT]
 > The PCB doesn't have a link to a product page; instead, it downloads gerbers.zip. Don't unzip it; instead, go to a PCB manufacturer's page (such as [aivon.com](aivon.com)) and drop the zip into its "gerber file uploader."
 > The "gerber file uploader" should look like something similar or exactly like this:
 > 
 > <img width="822" height="140" alt="Screenshot 2026-06-09 at 10 54 21 AM" src="https://github.com/user-attachments/assets/d45b8928-c98f-4327-84a0-f5eb3a830705" />
->
-> The case file, however, contains an STL and a STEP file, so you must unzip it to use the files inside.
+
+> [!WARNING]
+> The case file, however, contains an STL and a STEP file, so please unzip it.
 
