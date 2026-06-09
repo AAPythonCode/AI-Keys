@@ -16,7 +16,7 @@ A custom mechanical keyboard designed in KiCad, with a built-in AI function to a
 # BOM (Bill Of Materials)
 Here's a dedicated BOM for creating this keyboard yourself:
 
-| Part | Cost | Link / Download | Manufacturer / Retailer |
+| Part | Cost | Link/Download | Manufacturer/Retailer |
 |------|------|------|----------------------|
 | Cherry MX Brown | $8.00 (with new user discount) | [Click Here](https://www.aliexpress.us/item/3256811880813653.html?spm=a2g0o.detail.0.0.3867UsiwUsiwu6&mp=1&pdp_npi=6%40dis%21USD%21USD+32.89%21USD+8.00%21%21USD+8.00%21%21%21%402101eede17807987748595335e2ac4%2112000057415897661%21ct%21US%217444042787%21%211%210%21&_gl=1*1651hzd*_gcl_aw*R0NMLjE3NzQxNTIyOTcuQ2owS0NRandtdW5OQmhEYkFSSXNBT25kS3BtZWJwVFNMSlp6Y2tCbWZrbUN5cmo0b0lSVUNOdUExRzBNODM4TWd6QUx5bHJhME04VzNBNGFBbHR0RUFMd193Y0I.*_gcl_au*MTY4NjExMjk2NC4xNzczODc0NTA1*_ga*MjAyMzU5Nzk2NC4xNzgwNzk4NjI3*_ga_VED1YSGNC7*czE3ODA3OTg2MjckbzEkZzEkdDE3ODA3OTg3NzQkajYwJGwwJGgw&gatewayAdapt=glo2usa) | AliExpress |
 | Keycaps | $4.06 (with new user discount) | [Click Here](https://www.aliexpress.us/item/3256807174517233.html?spm=a2g0o.cart.0.0.314f38dabMcHQb&mp=1&pdp_npi=6%40dis%21USD%21USD+28.14%21USD+4.06%21%21USD+4.06%21%21%21%402103110517809574308387537ef602%2112000057896443594%21ct%21US%217444042787%21%211%210%21&_gl=1*1d189ad*_gcl_aw*R0NMLjE3Nzc3NTMyMzAuQ2p3S0NBand3ZGJQQmhCZ0Vpd0F4QlJBNGJVQ0tFZlZpZjBqYkZoaDBxQkh5anRleFZHblpLV01BbXdvQ1NITDMtdGtYVnBXREF1SjZCb0NzWU1RQXZEX0J3RQ..*_gcl_dc*R0NMLjE3Nzc3NTMyMzAuQ2p3S0NBand3ZGJQQmhCZ0Vpd0F4QlJBNGJVQ0tFZlZpZjBqYkZoaDBxQkh5anRleFZHblpLV01BbXdvQ1NITDMtdGtYVnBXREF1SjZCb0NzWU1RQXZEX0J3RQ..*_gcl_au*MTY4NjExMjk2NC4xNzczODc0NTA1*_ga*MjEwOTI4NjY5NS4xNzgwOTQzODE5*_ga_VED1YSGNC7*czE3ODA5NTczOTUkbzMkZzEkdDE3ODA5NTc4MjgkajYwJGwwJGgw&gatewayAdapt=glo2usa) | AliExpress |
@@ -30,7 +30,7 @@ Here's a dedicated BOM for creating this keyboard yourself:
 | Resistors and Caps | $5.66 | [Click Here](https://justpaste.it/oabiu) | LCSC |
 | TPS63001 | $2.27 | [Click Here](https://www.ti.com/product/TPS63001?utm_source=google&utm_medium=cpc&utm_campaign=app-null-null-GPN_EN-cpc-pf-google-ww_en_cons&utm_content=TPS63001&ds_k=TPS63001&DCM=yes&gclsrc=aw.ds&gad_source=1&gad_campaignid=1767856010&gbraid=0AAAAAC068F02XRLVUVn1qaOX6xrOvtP0y&gclid=Cj0KCQjwrZTRBhDSARIsAHidYfcO2jmQQrtSjZ0xPVh3lzhPpcKTbKZK_XgQGUQXxEWHeZcUr_cTREwaAqqhEALw_wcB#order-quality) | Texas Instruments |
 | PCB | Depends On Manufacturer | [Click Here Or Check Repo Files](https://github.com/user-attachments/files/28724171/gerbers.zip) | Any PCB Manufacturer |
-| Case | Depends On Manufacturer / Manufacturing Device | [Click Here Or Check Repo Files](https://github.com/user-attachments/files/28766007/Case.Files.zip) | Any Fabrication Device / Company 
+| Case | Depends On Manufacturer/Manufacturing Device | [Click Here Or Check Repo Files](https://github.com/user-attachments/files/28766007/Case.Files.zip) | Any Fabrication Device/Company 
 
 
 
