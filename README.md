@@ -1,5 +1,10 @@
 # AI-Keys
-A custom mechanical keyboard designed in KiCad, with a built-in AI function to ask AI a question.
+A custom mechanical keyboard designed in KiCad, with a built-in AI function to ask AI a question. To make this yourself, check the information down below! ↓
+
+# Special Thanks
+This project was a ride of twists and turns, and I have to firstly credit AIVON for their support on this entire project! They willingly lowered the PCB cost to 100 dollars, just so this project would be able to continue! If you liked this project, please do check out their company at [aivon.com](aivon.com)! When I was first sifting through each of the possible PCB manufacturers, both JLCPCB and PCBWay gave me extremely expensive prices without even taking in the cost of the parts for the PCBA order! AIVON, however, supported me fully, and gave me a cost that fit right within my budget! Thank you so much AIVON, and thank YOU for taking the time to check out their exquisite company!
+
+Moreover, I'd like to express my gratitude to the Hack Club community and organization! They are the reason why I started this perilous project in the first place, as they provided coverage on all of the parts, whilist their community provided all of their knowledge! Thank you, Hack Club! Please check them out at [hackclub.com](hackclub.com)! 
 
 # How it works
 - The firmware runs on a ESP32-S3 DEVKIT C1, handing all of the logic to make the keyboard run.
@@ -32,8 +37,6 @@ Here's a dedicated BOM for creating this keyboard yourself:
 | PCB | Depends On Manufacturer | [Click Here Or Check Repo Files](https://github.com/user-attachments/files/28724171/gerbers.zip) | Any PCB Manufacturer |
 | Case | Depends On Manufacturer/Manufacturing Device | [Click Here Or Check Repo Files](https://github.com/user-attachments/files/28766007/Case.Files.zip) | Any Fabrication Device/Company 
 
-
-
 > [!IMPORTANT]
 > The PCB doesn't have a link to a product page; instead, it downloads gerbers.zip. Don't unzip it; instead, go to a PCB manufacturer's page (such as [aivon.com](aivon.com)) and drop the zip into its "gerber file uploader."
 > The "gerber file uploader" should look like something similar or exactly like this:
@@ -42,3 +45,31 @@ Here's a dedicated BOM for creating this keyboard yourself:
 >
 > ### The case's zip file, however, contains an STL and a STEP file, so please unzip it.
 
+And finally, the best part... ↓
+
+# Assembly!
+1. Install KiCad and Arduino IDE. (they'll be important!)
+2. Solder on all parts to their respective locations, as noted in the schematic file.
+3. Install the stabilizers into each of their respective holes.
+4. Install the keycaps onto each of the switches.
+5. Upload the firmware onto the ESP32-S3 using Arduino IDE.
+6. Happy typing/asking!
+
+# Images (for your convenience :)
+
+The full schematic:
+<img width="1815" height="998" alt="Screenshot 2026-06-09 at 11 51 33 AM" src="https://github.com/user-attachments/assets/f571704b-8f46-4123-a21e-e8f62c49c475" />
+
+The charging portion of the schematic:
+<img width="1747" height="1094" alt="Screenshot 2026-06-09 at 11 55 13 AM" src="https://github.com/user-attachments/assets/f59d817b-338e-42de-ae5b-0e46e5bfdd9f" />
+
+The keyboard portion of the schematic:
+<img width="1525" height="813" alt="Screenshot 2026-06-09 at 11 55 46 AM" src="https://github.com/user-attachments/assets/1ce6e5d7-9521-4e89-9df8-516b1631125b" />
+
+
+The ESP32-S3 portion of the schematic:
+<img width="1326" height="932" alt="Screenshot 2026-06-09 at 11 56 19 AM" src="https://github.com/user-attachments/assets/29e8a175-f2ac-484d-b17a-7aad9dd8fa3b" />
+
+
+The full routed PCB:
+<img width="1700" height="713" alt="Screenshot 2026-06-09 at 11 56 41 AM" src="https://github.com/user-attachments/assets/68006e2f-9e2d-4be2-aeec-4ff79b7da905" />
