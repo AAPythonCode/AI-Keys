@@ -6,6 +6,13 @@ This project was a ride of twists and turns, and I have to firstly credit AIVON 
 
 Moreover, I'd like to express my gratitude to the Hack Club community and organization! They are the reason why I started this perilous project in the first place, as they provided coverage on all of the parts, whilist their community provided all of their knowledge! Thank you, Hack Club! Please check them out at [hackclub.com](hackclub.com)! 
 
+# Why I Made This Project
+Honestly, after seeing macropads being made on Hack Club's Blueprint program, I realized that I wanted to create something bigger. Someting unique, that at the same time feels useful. So, I realized I wanted to create a big macropad: a keyboard. But, I didn't want to make any generic keyboard. After all, keyboard are nothing special. So, I added my own twist to it: AI! And the rest 
+
+is
+
+history.
+
 # How it works
 - The firmware runs on a ESP32-S3 DEVKIT C1, handing all of the logic to make the keyboard run.
 - It can work with any Cherry-branded switch, but in particular it uses the Cherry MX Brown model.
