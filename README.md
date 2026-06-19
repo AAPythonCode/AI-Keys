@@ -82,6 +82,9 @@ The ESP32-S3 portion of the schematic:
 The full routed PCB:
 <img width="1700" height="713" alt="Screenshot 2026-06-09 at 11 56 41 AM" src="https://github.com/user-attachments/assets/68006e2f-9e2d-4be2-aeec-4ff79b7da905" />
 
+The Case:
+<img width="877" height="468" alt="Screenshot 2026-06-19 at 1 32 56 PM" src="https://github.com/user-attachments/assets/b0889e49-ed12-4e2e-a626-bf71e8243af9" />
+
 The Case+PCB:
 <img width="757" height="384" alt="Screenshot 2026-06-19 at 1 30 20 PM" src="https://github.com/user-attachments/assets/afc9054c-0edb-4fc4-8387-a231dc0c4fe6" />
 
