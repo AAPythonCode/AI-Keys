@@ -82,6 +82,9 @@ The ESP32-S3 portion of the schematic:
 The full routed PCB:
 <img width="1700" height="713" alt="Screenshot 2026-06-09 at 11 56 41 AM" src="https://github.com/user-attachments/assets/68006e2f-9e2d-4be2-aeec-4ff79b7da905" />
 
+The Case+PCB:
+<img width="757" height="384" alt="Screenshot 2026-06-19 at 1 30 20 PM" src="https://github.com/user-attachments/assets/afc9054c-0edb-4fc4-8387-a231dc0c4fe6" />
+
 Assembled Build:
 
 Coming soon! I have yet to finish building the keyboard itself 😅, so I'll post the image after it's complete!
