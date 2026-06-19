@@ -89,7 +89,8 @@ The Case:
 
 The Case+PCB:
 
-<img width="757" height="384" alt="Screenshot 2026-06-19 at 1 30 20 PM" src="https://github.com/user-attachments/assets/afc9054c-0edb-4fc4-8387-a231dc0c4fe6" />
+<img width="1480" height="790" alt="image" src="https://github.com/user-attachments/assets/ad92f574-86e8-42c4-af89-c394d8d23e54" />
+
 
 Assembled Build:
 
